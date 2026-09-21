@@ -103,3 +103,10 @@ After changing tRPC routers in `apps/api`, regenerate the shared type package so
 ```bash
 pnpm -r codegen:trpc
 ```
+
+## Personal instructions
+
+@CLAUDE.trudy.md
+
+(Agents that don't expand `@` imports, such as Codex: read `CLAUDE.trudy.md`
+directly.)
